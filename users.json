@@ -1,0 +1,17 @@
+[
+    {
+        "name": "sam",
+        "teach_skill": "python",
+        "learn_skill": "guitar"
+    },
+    {
+        "name": "josh",
+        "teach_skill": "dancing",
+        "learn_skill": "boxing"
+    },
+    {
+        "name": "chinaza",
+        "teach_skill": "boxing",
+        "learn_skill": "dancing"
+    }
+]
